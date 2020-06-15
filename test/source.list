@@ -1,0 +1,8 @@
+../src/semaphore.cpp
+../src/thread_pool.cpp
+test.cpp
+test_blocking_queue.cpp
+test_semaphore.cpp
+test_future.cpp
+test_thread_pool.cpp
+test_parallel_util.cpp
